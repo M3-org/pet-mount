@@ -1,6 +1,6 @@
 {
-  "name": "Snoggle-mount",
-  "start_url": "snoggle2.glb",
+  "name": "Snoggle",
+  "start_url": "snoggle3.glb",
   "components": [
     {
       "key": "sit",
