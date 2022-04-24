@@ -1,13 +1,13 @@
 {
   "name": "Snoggle-mount",
-  "start_url": "snoggle.glb",
+  "start_url": "snoggle2.glb",
   "components": [
     {
       "key": "sit",
       "value": {
         "subtype": "saddle",
-        "sitBone": "spine.006",
-        "walkAnimation": "metarig.002Action",
+        "sitBone": "Spine",
+        "walkAnimation": "run",
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
         "speed": 0.02,
