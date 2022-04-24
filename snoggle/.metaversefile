@@ -1,12 +1,12 @@
 {
   "name": "Snoggle",
-  "start_url": "snoggle3.glb",
+  "start_url": "snoggle4.glb",
   "components": [
     {
       "key": "sit",
       "value": {
         "subtype": "saddle",
-        "sitBone": "Spine",
+        "sitBone": "sitSpine",
         "walkAnimation": "run",
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
