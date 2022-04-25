@@ -6,7 +6,7 @@
       "key": "sit",
       "value": {
         "subtype": "saddle",
-        "sitBone": "sitSpine",
+        "sitBone": "Spine",
         "walkAnimation": "run_snoggle",
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
